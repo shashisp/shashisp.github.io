@@ -1,0 +1,32 @@
+highlighter: rouge
+permalink: none
+kramdown:
+  input: GFM
+  hard_wrap: false
+repository: shashisp/shashisp.github.io
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:year/:month/:day/:title/
+
+title: Shashi
+description: homepage.
+url: https://shashisp.me
+author: Shashi Parappanavar
+twitter:
+  username: shashisp
+# logo: images/contents/NN.png
+social:
+  name: Shashi
+  links:
+    - https://twitter.com/ishashisp
+    - https://www.linkedin.com/in/shashispessp
+    - https://github.com/shashisp
