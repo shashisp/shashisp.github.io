@@ -6,7 +6,8 @@ layout: default
 
 <div class="hfeed">
 
-
+<p>WIP</p>
+<!-- 
   <div class="hentry post project-batch-title">
     <h2>Teams.fyi</h2>
   </div>
@@ -68,4 +69,5 @@ layout: default
     </div>
   </div>
 
+ -->
 </div>
