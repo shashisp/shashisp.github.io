@@ -6,8 +6,8 @@ layout: default
 
 <div class="hfeed">
 
-<p>WIP</p>
-<!-- 
+<p>Sideprojects:</p>
+
   <div class="hentry post project-batch-title">
     <h2>Teams.fyi</h2>
   </div>
@@ -19,7 +19,7 @@ layout: default
       </ul>
     </div>
   </div>
-
+ 
   <div class="hentry post project-batch-title">
     <h2>Remotejobsweekly.com</h2>
   </div>
@@ -31,7 +31,7 @@ layout: default
       </ul>
     </div>
   </div>
-
+<!-- 
 
   <div class="hentry post project-batch-title">
     <h2>gitlleter.co</h2>
@@ -68,6 +68,6 @@ layout: default
       </ul>
     </div>
   </div>
-
  -->
+
 </div>
