@@ -10,7 +10,7 @@ layout: default
 
     <div class="entry-summary">
       <p>Hey! This is Shashi, a Full Stack Engineer, Machine Learning and Outdoors Enthusiast.
-      I spend my time building webapps & productivity tools mostly using Python, JavsScript.</p>
+      I spend my time building webapps & productivity tools mostly using Python, JavaScript.</p>
     </div>
     <hr />
   </div>
