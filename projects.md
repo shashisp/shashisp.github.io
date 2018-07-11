@@ -6,7 +6,7 @@ layout: default
 
 <div class="hfeed">
 
-<p>Sideprojects:</p>
+<h2>Sideprojects:</h2>
 
   <div class="hentry post project-batch-title">
     <h2>Teams.fyi</h2>
