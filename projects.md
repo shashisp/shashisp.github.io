@@ -27,7 +27,7 @@ layout: default
   <div class="hentry post">
     <div class="entry-summary">
       <ul class="project-list">
-        <li><a href="https://www.Remotejobsweekly.com/" target="_blank">Remotejobsweekly</a>: Remotejobsweekly.com is an remote jobs aggregator and recommander.</li>
+        <li><a href="https://www.Remotejobsweekly.com/" target="_blank">Remotejobsweekly</a>: Remotejobsweekly.com is an remote jobs aggregator and recommender system.</li>
       </ul>
     </div>
   </div>
